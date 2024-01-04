@@ -1,0 +1,28 @@
+{
+  "name": "elm-land-tailwindcss-template",
+  "version": "1.0.0",
+  "description": "> Built with [Elm Land](https://elm.land) 🌈",
+  "main": "index.js",
+  "scripts": {
+    "start": "elm-land server",
+    "build": "elm-land build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kutyel/elm-land-tailwindcss-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kutyel/elm-land-tailwindcss-template/issues"
+  },
+  "homepage": "https://github.com/kutyel/elm-land-tailwindcss-template#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "elm-land": "^0.19.4",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0"
+  }
+}
